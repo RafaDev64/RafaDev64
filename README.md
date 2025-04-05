@@ -12,3 +12,5 @@ Bem-vindo ao meu cantinho no GitHub! Sou o Rafa, um dev apaixonado por tecnologi
 - ⚡ **Curiosidade:** Já passei mais tempo configurando o Git do que escrevendo código num dia!
 
 Fique à vontade pra explorar meus repositórios e deixar um oi!
+
+[Clique aqui](rafadev64.github.io/portifolio/projetos.html)

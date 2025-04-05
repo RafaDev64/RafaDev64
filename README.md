@@ -12,4 +12,4 @@ Bem-vindo ao meu cantinho no GitHub! Sou o Rafa, um dev apaixonado por tecnologi
 
 Fique à vontade pra explorar meus repositórios e deixar um oi!  
 
-[Clique aqui](https://rafadev64.github.io/portifolio/)  
+[![Gatinho codando](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)](https://www.linkedin.com/in/seu-perfil)

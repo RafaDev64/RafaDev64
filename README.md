@@ -12,4 +12,4 @@ Bem-vindo ao meu cantinho no GitHub! Sou o Rafa, um dev apaixonado por tecnologi
 
 Fique à vontade pra explorar meus repositórios e deixar um oi!  
 
-[![Gatinho codando]([https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media.tenor.com/JAa1l1pzZYIAAAAi/lojasqq-queroquero.gif))](https://www.linkedin.com/in/seu-perfil)
+[Clique aqui](https://www.linkedin.com/in/seu-perfil)

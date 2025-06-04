@@ -21,7 +21,7 @@
     
 <div align="center" style="margin-left: auto; margin-right: auto; width: fit-content;">
   <a href="https://rafadev64.github.io/portifolio/">
-    <img src="https://rafadev64.github.io/portifolio/assets/icon.png" alt="Portfólio" style="width: 100px; height: 100px; max-width: 100px; max-height: 100px;"/>
+    <img src="imagemPortfolio" alt="Portfólio" style="width: 1000px; height: 500px; max-width: 100px; max-height: 100px;"/>
   </a>
 </div>
 

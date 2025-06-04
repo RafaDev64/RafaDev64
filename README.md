@@ -20,8 +20,8 @@
  
     
 <div align="center" style="margin-left: auto; margin-right: auto; width: fit-content;">
-  <a href="https://rafadev64.github.io/portifolio/">
-    <img src="imagemPortfolio" alt="Portfólio" style="width: 1000px; height: 500px; max-width: 100px; max-height: 100px;"/>
+  <a href="[https://rafadev64.github.io/portifolio/](https://rafadev64.github.io/meuPortfolio2.0/)">
+   <img src="" alt="Clique Aqui para o Portfólio" style="width: 200px; height: 100px;"/>
   </a>
 </div>
 

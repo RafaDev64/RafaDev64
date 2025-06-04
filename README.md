@@ -1,27 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50C878&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Rafael;Tenho+18+anos;Moro+no+Brasil;E+estou+estudando+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo+ao+meu+Perfil!;Aqui você+ira encontrar meus projetos pessoais e academicos:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Rafael;Tenho+19+anos;Moro+no+Brasil;E+estou+estudando+Desenvolvimento+de+Sistemas;Neste+espaço;Você+irá+encontrar+meus+projetos;Pessoais+e+acadêmicos;Seja+Bem-Vindo+ao+meu+Perfil;:%29)](https://git.io/typing-svg)
 
 <div align="center">  
    
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHe13&hide=contribs,prs&count_private=true&hide_border=true&title_color=50C878&icon_color=50C878&text_color=fefffe&bg_color=0d1117" alt="Rafa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHe13&layout=compact&count_private=true&hide_border=true&title_color=50C878&icon_color=50C878&text_color=fefffe&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaDev64&hide=contribs,prs&count_private=true&hide_border=true&title_color=50C878&icon_color=50C878&text_color=fefffe&bg_color=0d1117" alt="Rafa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaDev64&layout=compact&count_private=true&hide_border=true&title_color=50C878&icon_color=50C878&text_color=fefffe&bg_color=0d1117" />
 </div>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Mario 64](https://media.tenor.com/ew3Y-rRUYvkAAAAj/mario-64-gangname-style.gif)
 
-🧠 Estudando: Desenvolvimento de Sistemas (Proz Educação)
+🧠 **Estudando**: Desenvolvimento de Sistemas (Proz Educação)
 
-👯‍♀️ Procurando a primeira experiencia profissional no mercado de trabalho!
+👯‍♀️ **Procurando**: Primeira experiência profissional no mercado de trabalho!
 
-Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?style=plastic)
+**Mas também faço**: ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?style=plastic)
 
-# Meu Portifólio 
+# Meu Portfólio 
 
-<div align="center"  style="margin-left: auto; margin-right: auto; width: fit-content;">
-  <a href="https://pedrohe13.github.io/portifolio/">
-    <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2d/Nether_Portal_%28EW%29.gif/revision/latest?cb=20201220000743" alt="SIte" style="width: 100px; height: 100px; max-width: 100px; max-height: 100px;"/>
+<div align="center" style="margin-left: auto; margin-right: auto; width: fit-content;">
+  <a href="https://rafadev64.github.io/portifolio/">
+    <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2d/Nether_Portal_%28EW%29.gif/revision/latest?cb=20201220000743" alt="Site" style="width: 100px; height: 100px; max-width: 100px; max-height: 100px;"/>
   </a>
 </div>
 
@@ -33,8 +32,8 @@ Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?sty
 
 <div style="display: inline">
   
-![HTML Badge](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=plastic&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg?&style=plastic&logo=javascript&logoColor=white)
 
 </div>
@@ -51,24 +50,23 @@ Mas também faço ![Freelance](https://img.shields.io/badge/Freelance-29B2FE?sty
 
 ## Outras Ferramentas
 
-<div  style="display: inline">
+<div style="display: inline">
 
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&&logo=googledrive&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=plastic&&logo=Brave&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plastic&&logo=GoogleChrome&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=plastic&&logo=Firefox-Browser&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&e&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=plastic&logo=openai&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&&logo=windows&logoColor=white)
   
 </div>
 
-
 # Conecte-se comigo
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&&logo=Github&logoColor=white&link=https://github.com/PedroHe13)](https://github.com/PedroHe13)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&&logo=Github&logoColor=white&link=https://github.com/RafaDev64)](https://github.com/RafaDev64)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-rodrigues-719167341/)](https://www.linkedin.com/in/pedro-rodrigues-719167341/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=https://mail.google.com/)](https://mail.google.com/)
 
-<p align="center">obrigado por acessar meu perfil</p>
+<p align="center">Obrigado por acessar meu perfil!</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50C878&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F00FF&height=120&section=footer"/>

@@ -20,10 +20,11 @@
  
     
 <div align="center" style="margin-left: auto; margin-right: auto; width: fit-content;">
-  <a href="(https://rafadev64.github.io/meu-Portfolio-2.0/)">
+  <a href="[(https://rafadev64.github.io/meu-Portfolio-2.0/)](https://rafadev64.github.io/meu-Portfolio-2.0/)">
    <img src="" alt="Clique Aqui para o Portfólio" style="width: 200px; height: 100px;"/>
   </a>
 </div>
+
 
 ## Interesses em Tecnologia
 - **FrontEnd**: HTML, CSS, JavaScript, React (em aprendizado)  

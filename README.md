@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Quem Sou Eu?
-Oi, eu sou **Rafael**, um jovem de 19 anos do Brasil, mergulhado no mundo do **Desenvolvimento de Sistemas** na Proz Educação. Minha missão? Transformar linhas de código em soluções incríveis! Estou em busca da minha **primeira oportunidade profissional**, mas também arraso em projetos **freelance**! 😎
+Oi, eu sou **Rafael**, um jovem de 19 anos do Brasil, mergulhado no mundo do **Desenvolvimento de Sistemas** na Proz Educação. Minha missão? Transformar linhas de código em soluções incríveis! Estou em busca da minha **primeira oportunidade profissional**.
 
 - 🧠 **Estudando**: Desenvolvimento Web (HTML, CSS, JavaScript e aprendendo React)  
 - 🎯 **Meta**: Criar aplicações que impactem e facilitem a vida das pessoas  

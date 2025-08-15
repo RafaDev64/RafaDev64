@@ -48,7 +48,7 @@ No meu **portfólio**, você vai encontrar projetos que brilham como estrelas no
 
 ---
 
-## 🔧 Ferramentas do Meu Arsenal
+## 🔧 Ferramentas utilizadas>:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://imgs.search.brave.com/9MpR52idkWY9qHRI4yejM9jqA-H5LqvwTIYJwTCVx2E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9m/L2YzL1Zpc3VhbF9T/dHVkaW9fQ29kZV8w/LjEwLjFfaWNvbi5w/bmc" width="60" height="60" alt="Visual Studio Code" />
   <img src="https://imgs.search.brave.com/ChKaCV4dvS-XpWwhnvk6XfJVKlJvOEF4WrHpEjyRrAM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9naXRodWIt/aWNvbi01MTJ4NDk3/LW9wcHRocmUyLnBu/Zw" width="60" height="60" alt="GitHub" />
